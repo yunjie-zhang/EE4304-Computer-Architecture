@@ -1,5 +1,5 @@
 # EE4304 Lab1 Instruction
-Feel free to let me know if you have any suggestions or find any bug/typo/error. This tutorial will updated based on your feedback, so please keep tracking of this respository: https://github.com/yunjie-zhang/EE4304Lab1.git 
+Feel free to let me know if you have any suggestions or find any bug/typo/error. This tutorial will updated based on your feedback, so please keep tracking of this respository: https://github.com/yunjie-zhang/EE4304-Computer-Architecture.git 
 ## Installing SPIM
 In your terminal, type:
 ```
