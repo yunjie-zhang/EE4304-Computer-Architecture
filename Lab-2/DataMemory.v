@@ -19,7 +19,6 @@ module DataMemory(clk, rst, memWrite, memRead, addr, writeData, out);
     end
 
     integer i;
-	 //there is bug here!!!!!!
 	 always @(negedge clk) begin
 		if (memWrite) begin
         	mem[addr[7:0]] <= writeData;
