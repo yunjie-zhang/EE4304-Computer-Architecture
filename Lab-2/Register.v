@@ -14,7 +14,7 @@ module Register(clk, rst, write, addr, in, out);
 
     assign enable = addr&write;
 
-    always @(negedge clk) begin  //bug here 
+    always @(negedge clk) begin
         if(rst) begin
             out <= 32'h0000_0000;
         end
